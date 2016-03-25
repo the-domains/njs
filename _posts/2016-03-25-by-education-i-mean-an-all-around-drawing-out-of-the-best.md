@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: "\"By education,\_I mean\nan all around drawing out of the best\_in the child\_and man - body,\nmind and spirit\" – M. K. Gandhi, 1937"
-datePublished: '2016-03-25T19:29:34.378Z'
-dateModified: '2016-03-25T19:09:55.505Z'
-title: ''
+datePublished: '2016-03-25T20:05:40.211Z'
+dateModified: '2016-03-25T20:05:07.303Z'
+title: NOT JUST STUDIES
 author: []
+sourcePath: _posts/2016-03-25-by-education-i-mean-an-all-around-drawing-out-of-the-best.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-25-by-education-i-mean-an-all-around-drawing-out-of-the-best.md
-published: true
 url: by-education-i-mean-an-all-around-drawing-out-of-the-best/index.html
 _type: Article
 
