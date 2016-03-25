@@ -1,29 +1,31 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: |-
   Adding the advantages for
   school
-datePublished: '2016-03-25T19:51:59.127Z'
-dateModified: '2016-03-25T19:47:33.294Z'
-title: ''
+datePublished: '2016-03-25T20:02:17.692Z'
+dateModified: '2016-03-25T20:00:32.615Z'
+title: Advantages for School
 author: []
+sourcePath: _posts/2016-03-25-adding-the-advantages-for-school.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-25-adding-the-advantages-for-school.md
-published: true
 url: adding-the-advantages-for-school/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0da46900-4a0f-4261-843e-d36eddee4fc3.jpg)
+
 **Adding the advantages for
 school**
 
@@ -54,4 +56,3 @@ plan the human and infrastructural resources
 • Creating after school training programs and hard
 core professional training brand for the regular school students and children
 from other schools
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0da46900-4a0f-4261-843e-d36eddee4fc3.jpg)
