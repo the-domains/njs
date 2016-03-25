@@ -1,28 +1,40 @@
-name: NJS
 favicon: null
-layout_spectrum: 0.35661103622987866
-typography_spectrum: 0.5358720899093896
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: NJS
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+  saturation: 0.7331517904531211
   brandStrength: 0.6206313013099134
   lightness: 0.9391426278743893
-  saturation: 0.7331517904531211
+  brandColors:
+    - '#FFFFFF'
+    - '#E00C7E'
+    - '#F47721'
+    - '#5A5A5C'
+    - '#D9D9D9'
   rhythmicContrast: 0.7552308270242065
-purpose: []
+typography_spectrum: 0.4802867
+layout_spectrum: 0.4032258
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
