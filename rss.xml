@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[NJS]]></title>
+        <description><![CDATA[NJS]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 25 Mar 2016 17:53:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PHYSICAL EDUCATION AND SPORTS]]></title>
+            <description><![CDATA[<article><h1>PHYSICAL EDUCATION AND SPORTS</h1><p>In our society, children are usually categorized as good in studies, average in studies or weak in studies. We want to see an India, where each child is appreciated and encouraged for his/her Strengths and Skills, in any field, and not just for his/her performance in academics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9aa3d13e3677ad8110ded91dc26b3267a35e6366.png"></article>]]></description>
+            <link>undefinedvision/index.html</link>
+            <guid isPermaLink="false">cd492668-dd05-40f0-9e70-837a38b51f30</guid>
+            <pubDate>Fri, 25 Mar 2016 17:53:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
