@@ -8,8 +8,8 @@ keywords: []
 description: |-
   Adding the advantages for
   school
-datePublished: '2016-03-25T19:29:35.092Z'
-dateModified: '2016-03-25T19:29:34.375Z'
+datePublished: '2016-03-25T19:51:59.127Z'
+dateModified: '2016-03-25T19:47:33.294Z'
 title: ''
 author: []
 authors: []
@@ -54,3 +54,4 @@ plan the human and infrastructural resources
 • Creating after school training programs and hard
 core professional training brand for the regular school students and children
 from other schools
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0da46900-4a0f-4261-843e-d36eddee4fc3.jpg)
