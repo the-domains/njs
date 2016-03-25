@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Highlights and essentials
-datePublished: '2016-03-25T19:29:35.009Z'
-dateModified: '2016-03-25T19:29:34.363Z'
+datePublished: '2016-03-25T19:51:56.135Z'
+dateModified: '2016-03-25T19:47:38.001Z'
 title: ''
 author: []
 authors: []
@@ -57,3 +57,4 @@ implementation
 
 - After-school, detailed and hard-core endurance
 based training options
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0f5410b-23a6-4ba0-a435-6235963c695b.jpg)
