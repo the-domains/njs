@@ -1,27 +1,29 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Highlights and essentials
-datePublished: '2016-03-25T19:51:56.135Z'
-dateModified: '2016-03-25T19:47:38.001Z'
-title: ''
+datePublished: '2016-03-25T20:02:14.086Z'
+dateModified: '2016-03-25T20:01:19.225Z'
+title: Highlights of Program
 author: []
+sourcePath: _posts/2016-03-25-highlights-and-essentials.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-25-highlights-and-essentials.md
-published: true
 url: highlights-and-essentials/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0f5410b-23a6-4ba0-a435-6235963c695b.jpg)
+
 **Highlights and essentials**
 
 - Broad based Physical education
@@ -57,4 +59,3 @@ implementation
 
 - After-school, detailed and hard-core endurance
 based training options
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0f5410b-23a6-4ba0-a435-6235963c695b.jpg)
