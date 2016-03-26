@@ -1,5 +1,8 @@
+name: NJS
+favicon: null
+layout_spectrum: 0.76613
+typography_spectrum: 0.4802867
 title: NOT JUST STUDIES
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7331517904531211
-  brandStrength: 0.6206313013099134
-  rhythmicContrast: 0.7552308270242065
   brandColors:
     - '#FFFFFF'
     - '#E00C7E'
     - '#F47721'
     - '#5A5A5C'
     - '#D9D9D9'
+  brandStrength: 0.6206313013099134
   lightness: 0.9391426278743893
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: NJS
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4802867
-layout_spectrum: 0.8763441
+  saturation: 0.7331517904531211
+  rhythmicContrast: 0.7552308270242065
+purpose: []
