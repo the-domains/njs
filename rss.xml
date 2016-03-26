@@ -4,8 +4,22 @@
         <description><![CDATA[NOT JUST STUDIES]]></description>
         <link>https://thegrid.ai/njs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 08:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 08:23:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/njs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HIGHLIGHTS OF NJS PROGRAM]]></title>
+            <description><![CDATA[<article><h1>HIGHLIGHTS OF NJS PROGRAM</h1><p>Highlights and essentials</p></article>]]></description>
+            <link>https://thegrid.ai/njs/highlights-and-essentials/index.html</link>
+            <guid isPermaLink="false">8667691c-db48-4615-9dbb-23f588877998</guid>
+            <pubDate>Sat, 26 Mar 2016 08:22:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NJS VISUAL ARTS PROGRAM]]></title>
+            <description><![CDATA[<article><h1>NJS VISUAL ARTS PROGRAM</h1><p>Art is the way of life</p></article>]]></description>
+            <link>https://thegrid.ai/njs/fc82300b-5a36-4e6a-a990-fe8bf30877d3/index.html</link>
+            <guid isPermaLink="false">fc82300b-5a36-4e6a-a990-fe8bf30877d3</guid>
+            <pubDate>Sat, 26 Mar 2016 08:22:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NJS PERFORMING ARTS PROGRAM]]></title>
             <description><![CDATA[<article><h1>NJS PERFORMING ARTS PROGRAM</h1><p>Creative muscle needs a creative activity to keep it in shape</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e478f4d452e52372cc8abc800a405d5ff5c6f411.jpg"></article>]]></description>
@@ -47,13 +61,6 @@ school</p></article>]]></description>
             <pubDate>Sat, 26 Mar 2016 07:50:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[HIGHLIGHTS OF NJS PROGRAM]]></title>
-            <description><![CDATA[<article><h1>HIGHLIGHTS OF NJS PROGRAM</h1><p>Highlights and essentials</p></article>]]></description>
-            <link>https://thegrid.ai/njs/highlights-and-essentials/index.html</link>
-            <guid isPermaLink="false">8667691c-db48-4615-9dbb-23f588877998</guid>
-            <pubDate>Sat, 26 Mar 2016 07:50:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[NJS PHYSICAL EDUCATION AND SPORTS PROGRAM]]></title>
             <description><![CDATA[<article><h1>NJS PHYSICAL EDUCATION AND SPORTS PROGRAM</h1><p>Schools are the temple of
 learning and provide the most effective muscle building towards academic
@@ -66,13 +73,6 @@ teaching methods that inculcating the perseverance, focus and hard work.</p></ar
             <link>https://thegrid.ai/njs/4be30d4b-f581-44a3-aa67-28665866089a/index.html</link>
             <guid isPermaLink="false">4be30d4b-f581-44a3-aa67-28665866089a</guid>
             <pubDate>Sat, 26 Mar 2016 07:49:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NJS VISUAL ARTS PROGRAM]]></title>
-            <description><![CDATA[<article><h1>NJS VISUAL ARTS PROGRAM</h1><p>Art is the way of life</p></article>]]></description>
-            <link>https://thegrid.ai/njs/fc82300b-5a36-4e6a-a990-fe8bf30877d3/index.html</link>
-            <guid isPermaLink="false">fc82300b-5a36-4e6a-a990-fe8bf30877d3</guid>
-            <pubDate>Sat, 26 Mar 2016 07:34:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
