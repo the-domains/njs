@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Imagination is the beginning of creation '
-datePublished: '2016-03-25T20:05:57.371Z'
-dateModified: '2016-03-25T20:05:56.313Z'
+datePublished: '2016-03-26T06:57:41.539Z'
+dateModified: '2016-03-26T06:57:25.547Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-25-imagination-is-the-beginning-of-creation.md
@@ -22,7 +22,8 @@ url: imagination-is-the-beginning-of-creation/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b7cbe7e977de83def1597e4742516ae8136ebee.jpg)
+
 **Imagination is the beginning of creation **
 
 **And the world is but a canvas to the imagination**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1964f9b7-79a8-468e-841f-3e8072ac90cf.jpg)
