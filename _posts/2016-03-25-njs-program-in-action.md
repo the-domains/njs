@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: NJS Physical Education Program in action
-datePublished: '2016-03-26T08:10:47.532Z'
-dateModified: '2016-03-26T08:10:41.093Z'
+datePublished: '2016-03-26T08:11:00.304Z'
+dateModified: '2016-03-26T08:10:48.684Z'
 title: NJS PROGRAM IN ACTION
 author: []
 sourcePath: _posts/2016-03-25-njs-program-in-action.md
