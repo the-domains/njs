@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Highlights and essentials
-datePublished: '2016-03-25T20:33:47.630Z'
-dateModified: '2016-03-25T20:04:34.878Z'
+datePublished: '2016-03-26T06:55:34.580Z'
+dateModified: '2016-03-25T20:33:51.417Z'
 title: Highlights of Program
 author: []
 sourcePath: _posts/2016-03-25-highlights-and-essentials.md
