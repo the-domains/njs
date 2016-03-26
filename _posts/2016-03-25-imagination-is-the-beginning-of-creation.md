@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Imagination is the beginning of creation '
-datePublished: '2016-03-26T06:57:41.539Z'
-dateModified: '2016-03-26T06:57:25.547Z'
-title: ''
+datePublished: '2016-03-26T07:35:05.486Z'
+dateModified: '2016-03-26T07:12:42.599Z'
+title: 'IMAGINATION IS THE BEGINNING OF CREATION '
 author: []
 sourcePath: _posts/2016-03-25-imagination-is-the-beginning-of-creation.md
 published: true
