@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: NJS Phydicsl Education Program in action
-datePublished: '2016-03-26T07:05:39.979Z'
-dateModified: '2016-03-26T06:59:24.269Z'
-title: NJS Program in Action
+description: NJS Physical Education Program in action
+datePublished: '2016-03-26T07:34:50.629Z'
+dateModified: '2016-03-26T07:13:08.888Z'
+title: NJS PROGRAM IN ACTION
 author: []
 sourcePath: _posts/2016-03-25-njs-program-in-action.md
 published: true
