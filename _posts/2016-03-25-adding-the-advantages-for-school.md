@@ -3,13 +3,13 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: |-
   Adding the advantages for
   school
-datePublished: '2016-03-26T07:50:38.152Z'
-dateModified: '2016-03-26T07:50:10.421Z'
+datePublished: '2016-03-26T08:22:29.504Z'
+dateModified: '2016-03-26T08:21:54.880Z'
 title: ADVANTAGES FOR SCHOOL
 author: []
 sourcePath: _posts/2016-03-25-adding-the-advantages-for-school.md
