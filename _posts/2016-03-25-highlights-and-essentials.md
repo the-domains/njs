@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Highlights and essentials
-datePublished: '2016-03-26T07:35:09.700Z'
-dateModified: '2016-03-26T06:55:42.296Z'
-title: Highlights of Program
+datePublished: '2016-03-26T07:50:23.614Z'
+dateModified: '2016-03-26T07:50:19.296Z'
+title: HIGHLIGHTS OF NJS PROGRAM
 author: []
 sourcePath: _posts/2016-03-25-highlights-and-essentials.md
 published: true
