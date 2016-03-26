@@ -8,8 +8,8 @@ keywords: []
 description: |-
   Adding the advantages for
   school
-datePublished: '2016-03-25T20:02:17.692Z'
-dateModified: '2016-03-25T20:00:32.615Z'
+datePublished: '2016-03-26T07:35:13.398Z'
+dateModified: '2016-03-25T20:34:22.202Z'
 title: Advantages for School
 author: []
 sourcePath: _posts/2016-03-25-adding-the-advantages-for-school.md
@@ -24,7 +24,7 @@ url: adding-the-advantages-for-school/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0da46900-4a0f-4261-843e-d36eddee4fc3.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d7ee08eb0176b0c6de0ff4624e5bfeb70894821.jpg)
 
 **Adding the advantages for
 school**
