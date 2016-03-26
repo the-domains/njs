@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Highlights and essentials
-datePublished: '2016-03-26T08:22:26.486Z'
-dateModified: '2016-03-26T08:21:59.302Z'
+datePublished: '2016-03-26T08:24:52.117Z'
+dateModified: '2016-03-26T08:24:34.922Z'
 title: HIGHLIGHTS OF NJS PROGRAM
 author: []
 sourcePath: _posts/2016-03-25-highlights-and-essentials.md
