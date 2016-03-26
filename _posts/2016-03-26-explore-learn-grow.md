@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-26T08:07:14.005Z'
-dateModified: '2016-03-26T08:06:40.211Z'
+datePublished: '2016-03-26T08:09:20.518Z'
+dateModified: '2016-03-26T08:09:17.354Z'
 title: EXPLORE LEARN GROW
 author: []
 sourcePath: _posts/2016-03-26-explore-learn-grow.md
@@ -22,7 +22,7 @@ url: explore-learn-grow/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7239de5f-7ccb-45f5-8f5c-4faa13d56a17.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f5e5ceee45e3b3a83cf4747d4ebf988d7246a5c.jpg)
 
 ##### OFFICE ADDRESS - 
 
@@ -32,6 +32,6 @@ A-18, Sector-17, Noida - 201301
 
 Uttar Pradesh, India
 
-Tel: +91 120 4297723
+T: +91 120 4297723
 
-Email Id:****info@notjuststudies.in
+E: info@notjuststudies.in
